@@ -1,0 +1,7 @@
+{
+    "token": "Your_Bot_Token",
+    "prefix": "!",
+    "parentId": "Your_ticket_category_ID",
+    "closedParentId": "Your_closed_tickets_category_ID",
+    "staffRole": "Your_staff_role_ID"
+}

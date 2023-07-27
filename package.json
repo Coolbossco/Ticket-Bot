@@ -1,0 +1,19 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Codegraph",
+  "license": "MIT",
+  "dependencies": {
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord-tickets": "^2.0.0",
+    "discord.js": "^12.5.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "update": "git branch && git fetch && git pull"
+  },
+  "keywords": [],
+  "devDependencies": {},
+  "description": ""
+}
